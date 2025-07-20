@@ -1,0 +1,8 @@
+symbol,transaction_date,signal,readiness,profit_days_estimate,ltp,operator_cost,trap_score
+SHIVM,2025-07-08,Sell,79,4,629,743,0.03
+SHIVM,2025-07-09,Sell,73,5,945,614,0.97
+SHIVM,2025-07-10,Hold,96,7,1461,1318,0.87
+SHIVM,2025-07-11,Hold,79,3,1465,1139,0.04
+SHIVM,2025-07-12,Buy,71,2,976,570,0.28
+SHIVM,2025-07-13,Sell,87,9,1022,604,0.01
+SHIVM,2025-07-14,Buy,74,7,997,1220,0.75

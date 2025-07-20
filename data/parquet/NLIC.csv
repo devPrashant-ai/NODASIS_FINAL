@@ -1,0 +1,8 @@
+symbol,transaction_date,signal,readiness,profit_days_estimate,ltp,operator_cost,trap_score
+NLIC,2025-07-08,Hold,72,3,1029,739,0.45
+NLIC,2025-07-09,Hold,88,6,650,1276,0.66
+NLIC,2025-07-10,Sell,96,5,560,1483,0.42
+NLIC,2025-07-11,Hold,73,9,678,1406,0.48
+NLIC,2025-07-12,Hold,84,2,1274,803,0.22
+NLIC,2025-07-13,Sell,99,5,1592,903,0.27
+NLIC,2025-07-14,Buy,70,6,1266,1385,0.25

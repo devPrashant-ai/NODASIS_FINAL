@@ -1,0 +1,8 @@
+symbol,transaction_date,signal,readiness,profit_days_estimate,ltp,operator_cost,trap_score
+NICA,2025-07-08,Hold,91,4,1325,300,0.26
+NICA,2025-07-09,Sell,98,5,1250,1070,0.99
+NICA,2025-07-10,Buy,73,2,820,1122,0.01
+NICA,2025-07-11,Buy,93,6,1390,1248,0.05
+NICA,2025-07-12,Sell,84,9,1311,323,0.77
+NICA,2025-07-13,Buy,75,6,841,1249,0.36
+NICA,2025-07-14,Sell,78,6,1450,718,0.64

@@ -1,0 +1,8 @@
+symbol,transaction_date,signal,readiness,profit_days_estimate,ltp,operator_cost,trap_score
+ADBL,2025-07-08,Hold,82,3,1303,1444,0.62
+ADBL,2025-07-09,Hold,80,2,656,867,0.9
+ADBL,2025-07-10,Hold,95,2,507,889,0.23
+ADBL,2025-07-11,Hold,92,2,445,567,0.45
+ADBL,2025-07-12,Sell,90,7,1052,1307,0.91
+ADBL,2025-07-13,Buy,99,7,1122,409,0.56
+ADBL,2025-07-14,Buy,83,5,1312,1166,0.09

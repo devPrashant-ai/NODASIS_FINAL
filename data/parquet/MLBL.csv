@@ -1,0 +1,8 @@
+symbol,transaction_date,signal,readiness,profit_days_estimate,ltp,operator_cost,trap_score
+MLBL,2025-07-08,Sell,76,7,1489,566,0.68
+MLBL,2025-07-09,Hold,85,3,534,346,0.95
+MLBL,2025-07-10,Hold,95,9,569,1346,0.51
+MLBL,2025-07-11,Hold,92,6,1251,634,0.49
+MLBL,2025-07-12,Buy,85,9,1113,1250,0.81
+MLBL,2025-07-13,Sell,91,2,744,1451,0.83
+MLBL,2025-07-14,Buy,92,6,1212,917,0.02

@@ -1,0 +1,8 @@
+symbol,transaction_date,signal,readiness,profit_days_estimate,ltp,operator_cost,trap_score
+PRVU,2025-07-08,Buy,80,3,917,529,0.91
+PRVU,2025-07-09,Hold,74,9,1404,1277,0.65
+PRVU,2025-07-10,Sell,71,7,888,524,0.53
+PRVU,2025-07-11,Sell,90,5,661,1244,0.13
+PRVU,2025-07-12,Buy,76,8,1235,1276,0.19
+PRVU,2025-07-13,Buy,83,2,1145,357,0.14
+PRVU,2025-07-14,Sell,75,7,991,1435,0.22

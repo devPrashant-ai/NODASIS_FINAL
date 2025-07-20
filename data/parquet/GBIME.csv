@@ -1,0 +1,8 @@
+symbol,transaction_date,signal,readiness,profit_days_estimate,ltp,operator_cost,trap_score
+GBIME,2025-07-08,Hold,87,4,1067,919,0.34
+GBIME,2025-07-09,Buy,97,2,619,979,0.46
+GBIME,2025-07-10,Buy,75,6,941,522,0.76
+GBIME,2025-07-11,Hold,70,5,987,582,0.9
+GBIME,2025-07-12,Buy,89,8,1098,929,0.17
+GBIME,2025-07-13,Sell,93,6,1011,1208,0.68
+GBIME,2025-07-14,Buy,93,3,797,1286,0.83

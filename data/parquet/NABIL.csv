@@ -1,0 +1,8 @@
+symbol,transaction_date,signal,readiness,profit_days_estimate,ltp,operator_cost,trap_score
+NABIL,2025-07-08,Sell,88,5,1095,644,0.16
+NABIL,2025-07-09,Hold,87,7,958,976,0.56
+NABIL,2025-07-10,Buy,96,7,813,720,0.33
+NABIL,2025-07-11,Buy,87,9,917,839,0.69
+NABIL,2025-07-12,Hold,72,4,1326,1322,0.86
+NABIL,2025-07-13,Hold,75,4,899,1216,0.29
+NABIL,2025-07-14,Hold,82,4,1230,1307,0.17
