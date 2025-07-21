@@ -1,0 +1,6 @@
+symbol,sector,readiness_score,estimated_days_to_profit,best_case_days,worst_case_days,ltp,accumulation_cost,buy_signal
+NABIL,Bank,92,4,2,7,410.5,375.0,Yes
+NRIC,Insurance,86,5,3,8,530.0,500.0,Yes
+NIFRA,Investment,77,7,5,10,310.3,290.0,Yes
+UPPER,Hydro,81,6,4,9,625.0,610.0,Yes
+NLIC,Life Insurance,75,8,6,11,810.0,790.0,Yes
