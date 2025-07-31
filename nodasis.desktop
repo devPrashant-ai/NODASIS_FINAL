@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=NODASIS Pro Lite
+Exec=bash -c 'cd ~/nodasis && ./start.sh'
+Icon=utilities-terminal
+Type=Application
+Categories=Finance;
